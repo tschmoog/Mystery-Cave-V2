@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CharacterTest()
+comment0.text=\n\ Default\ constructor\ for\ test\ class\ CharacterTest\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ TestHealth()
+comment3.text=\n\ Increments\ and\ decrements\ characters\ health\ and\ tests\ values\ \n
+comment4.params=
+comment4.target=void\ TestMoney()
+comment4.text=\n\ Increments\ and\ decrements\ characters\ money\ and\ tests\ values\ \n
+comment5.params=
+comment5.target=void\ TestDamage()
+comment5.text=\n\ Increments\ characters\ damage\ and\ tests\ values\ \n
+numComments=6

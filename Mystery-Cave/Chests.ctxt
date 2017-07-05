@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=money
+comment0.target=Chests(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Chests\n
+comment1.params=
+comment1.target=boolean\ isLocked()
+comment1.text=\n\ Checks\ if\ the\ chest\ is\ locked\ \n\ @return\ if\ the\ chest\ is\ locked\ or\ not\ \n
+comment2.params=
+comment2.target=void\ unlockChest()
+comment2.text=\n\ Unlocks\ the\ chest\n
+comment3.params=
+comment3.target=void\ emptyChest()
+comment3.text=\n\ Empties\ the\ chest\n
+comment4.params=
+comment4.target=int\ moneyInside()
+comment4.text=\n\ Returns\ how\ much\ money\ is\ in\ the\ chest\ and\ empties\n\ @return\ number\ of\ gold\ pieces\ in\ the\ chest\n
+numComments=5
